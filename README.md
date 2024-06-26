@@ -1,2 +1,2 @@
 # planilhasArtigos
-Contém artigos do artigo x
+Contém os modelos de planilhas citadas no artigo LEVANTAMENTOS DE CAMPO VOLTADOS AO GEORREFERENCIAMENTO DE IMÓVEIS RURAIS: EXPERIÊNCIAS E FERRAMENTAS ESSENCIAIS
